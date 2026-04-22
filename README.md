@@ -1,4 +1,4 @@
-##📊 Salary Analysis & Prediction Project
+## 📊 Salary Analysis & Prediction Project
 
 
 ## 📌 Overview
