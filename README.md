@@ -39,7 +39,7 @@ Key findings:
 ## 📊 Key Visualizations
 
 ### Salary Distribution
-![Salary Distribution](images/Salary Distribution.png)
+![Salary Distribution](https://github.com/shafira-khoirunnisah/salary-analysis-project/blob/510045668601348aa65145bf2e16232374cf8f94/images/Salary%20Distribution.png)
 
 ### Salary vs Experience
 ![Salary vs Experience](images/Salary_vs_Experience.png)
