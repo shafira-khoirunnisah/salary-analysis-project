@@ -42,7 +42,7 @@ Key findings:
 ![Salary Distribution](https://github.com/shafira-khoirunnisah/salary-analysis-project/blob/510045668601348aa65145bf2e16232374cf8f94/images/Salary%20Distribution.png)
 
 ### Salary vs Experience
-![Salary vs Experience](images/Salary_vs_Experience.png)
+![Salary vs Experience](https://github.com/shafira-khoirunnisah/salary-analysis-project/blob/dd49e3901b0098f549d4bc73707852dc0d78b3e8/images/Salary%20vs%20Experience.png)
 
 ### Salary by Education
 ![Salary by Industry](images/Salary_vs_Education.png)
