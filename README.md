@@ -79,3 +79,10 @@ Two models were used:
 ## 📌 Conclusion
 
 This project demonstrates how data analysis and machine learning can be used to understand salary dynamics. While the model performs well, future work could include more complex and realistic datasets for improved generalization.
+
+## 📂 Dataset Source
+
+The dataset used in this project was obtained from Kaggle:
+[https://www.kaggle.com/datasets/hosan707/job-salary-prediction-dataset]
+
+Due to file size and licensing considerations, the dataset is not included in this repository.
