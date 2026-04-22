@@ -39,13 +39,13 @@ Key findings:
 ## 📊 Key Visualizations
 
 ### Salary Distribution
-![Salary Distribution](Salary_Distribution.png)
+![Salary Distribution](images/Salary_Distribution.png)
 
 ### Salary vs Experience
-![Salary vs Experience](images/salary_vs_experience.png)
+![Salary vs Experience](images/Salary_vs_Experience.png)
 
-### Salary by Industry
-![Salary by Industry](images/salary_by_industry.png)
+### Salary by Education
+![Salary by Industry](images/Salary_vs_Education.png)
 
 
 ## 🤖 Modeling
