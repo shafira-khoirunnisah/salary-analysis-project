@@ -1,14 +1,17 @@
 📊 Salary Analysis & Prediction Project
 
+
 📌 Overview
 
 This project explores the factors influencing salary and builds predictive models using machine learning techniques. The analysis focuses on identifying key drivers such as experience, education, company characteristics, and location.
+
 
 🎯 Objectives
 - Analyze salary distribution and trends
 - Identify key factors affecting salary
 - Build a predictive model for salary estimation
 - Compare performance of different machine learning models
+
 
 📂 Dataset
 
@@ -22,6 +25,7 @@ The dataset contains job-related information, including:
 - Remote work status
 - Salary (target variable)
 
+
 🔍 Exploratory Data Analysis
 
 Key findings:
@@ -30,6 +34,19 @@ Key findings:
 - Higher education levels correspond to higher median salaries
 - Location and company size significantly impact salary
 - The US and enterprise companies offer the highest compensation
+
+
+## 📊 Key Visualizations
+
+### Salary Distribution
+![Salary Distribution](images/salary_distribution.png)
+
+### Salary vs Experience
+![Salary vs Experience](images/salary_vs_experience.png)
+
+### Salary by Industry
+![Salary by Industry](images/salary_by_industry.png)
+
 
 🤖 Modeling
 
