@@ -1,6 +1,7 @@
 📊 Salary Analysis & Prediction Project
 
 📌 Overview
+
 This project explores the factors influencing salary and builds predictive models using machine learning techniques. The analysis focuses on identifying key drivers such as experience, education, company characteristics, and location.
 
 🎯 Objectives
@@ -10,6 +11,7 @@ This project explores the factors influencing salary and builds predictive model
 - Compare performance of different machine learning models
 
 📂 Dataset
+
 The dataset contains job-related information, including:
 - Job title
 - Experience level
@@ -21,6 +23,7 @@ The dataset contains job-related information, including:
 - Salary (target variable)
 
 🔍 Exploratory Data Analysis
+
 Key findings:
 - Salary follows a near-normal distribution with slight positive skew
 - Experience has a strong positive relationship with salary
@@ -29,6 +32,7 @@ Key findings:
 - The US and enterprise companies offer the highest compensation
 
 🤖 Modeling
+
 Two models were used:
 1. Linear Regression
    - MAE: ~5,436
@@ -56,4 +60,5 @@ Two models were used:
 - Machine Learning (Scikit-learn)
 
 📌 Conclusion
+
 This project demonstrates how data analysis and machine learning can be used to understand salary dynamics. While the model performs well, future work could include more complex and realistic datasets for improved generalization.
